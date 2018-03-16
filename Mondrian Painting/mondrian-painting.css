@@ -1,0 +1,106 @@
+#canvas
+{
+  width: 400px;
+  height: 400px;
+  background-color: ivory;
+  margin: 0 auto;
+  box-shadow: 5px 5px 50px gray;
+}
+#first-column
+{
+  width: 22.5%;
+  height: 75%;
+  background-color: gray;
+  float: left;
+}
+#white-first
+{
+  width: 100%;
+  height: 43%;
+  background-color: #f8fae7;
+}
+#black-first
+{
+  width: 100%;
+  height: 6.7%;
+  background-color: black;
+}
+#white-second
+{
+  width: 100%;
+  height: 50.3%;
+  background-color: #f8fae7;
+}
+#black-second
+{
+  width: 2.5%;
+  height: 75%;
+  background-color: black;
+  float: left;
+}
+#red
+{
+  width: 75%;
+  height: 75%;
+  background-color: #F5060A;
+  float: left;
+}
+#black-third
+{
+  width: 100%;
+  height: 2.5%;
+  background-color: black;
+}
+#blue
+{
+  width: 22.5%;
+  height: 22.5%;
+  background-color: #2F59A5;
+  float: left;
+}
+#black-fourth
+{
+  width: 2.5%;
+  height: 22.5%;
+  background-color: black;
+  float: left;
+}
+#white-third
+{
+  width: 65.5%;
+  height: 22.5%;
+  background-color: #f8fae7;
+  float: left;
+}
+#black-fifth
+{
+  width: 2.5%;
+  height: 22.5%;
+  background-color: black;
+  float: left;
+}
+#third-column
+{
+  width: 7%;
+  height: 22.5%;
+  background-color: gray;
+  float: left;
+}
+#white-fourth
+{
+  width: 100%;
+  height: 35%;
+  background-color: #f8fae7;
+}
+#black-sixth
+{
+  width: 100%;
+  height: 16%;
+  background-color: black;
+}
+#yellow
+{
+  width: 100%;
+  height: 49%;
+  background-color: #ecda6a;
+}
