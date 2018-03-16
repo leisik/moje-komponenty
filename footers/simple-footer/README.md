@@ -1,1 +1,2 @@
-Stopka wykonana podczas kursu na platfromie CodeBerry
+#Simple Footer
+This is a footer made during CodeBerry course
