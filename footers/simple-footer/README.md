@@ -1,0 +1,1 @@
+Stopka wykonana podczas kursu na platfromie CodeBerry
